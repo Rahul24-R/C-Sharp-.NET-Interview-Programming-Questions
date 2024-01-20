@@ -1,4 +1,5 @@
-﻿using ReverseStringnameSpace;
+﻿using IntersectionOfArray;
+using ReverseStringnameSpace;
 using SumofTwoElementInArray;
 
 namespace ProgrammingQuestions
@@ -8,7 +9,8 @@ namespace ProgrammingQuestions
         static Dictionary<int, string> selectionOption = new Dictionary<int, string>()
         {
             {1,"ReverseString" },
-            {2,"sumOfTwoElements" }
+            {2,"sumOfTwoElements" },
+            {3,"IntersectionOfArray" }
         };
         static void Main()
         {
@@ -38,6 +40,13 @@ namespace ProgrammingQuestions
                         foreach(var arrayElement in arrayElementSumObj.SumOfElementsInArrayLoop())
                         {
                             Console.WriteLine(arrayElement);
+                        }
+                        break;
+                    case 3:
+                        ArrayIntersection arrayIntersectionObj = new ArrayIntersection();
+                        foreach(var arrayElement in arrayIntersectionObj.ArrayIntersectionMethod())
+                        {
+                            Console.WriteLine(arrayElement.ToString()); 
                         }
                         break;
                 }

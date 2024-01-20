@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#ProgrammingQuestions", "C#ProgrammingQuestions\C#ProgrammingQuestions.csproj", "{2D210577-7B6D-4906-B94D-2965564BB761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#ProgrammingQuestions", "C#ProgrammingQuestions\C#ProgrammingQuestions.csproj", "{2D210577-7B6D-4906-B94D-2965564BB761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{FD2D72C5-6950-477B-A498-6DD5105B09AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{FD2D72C5-6950-477B-A498-6DD5105B09AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofTwoElementInArray", "SumofTwoElementInArray\SumofTwoElementInArray.csproj", "{24F96127-F614-43E9-A376-DD44A993F208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumofTwoElementInArray", "SumofTwoElementInArray\SumofTwoElementInArray.csproj", "{24F96127-F614-43E9-A376-DD44A993F208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfArray", "IntersectionOfArray\IntersectionOfArray.csproj", "{4081AA6D-7A18-4817-A15D-CA8BC74C8E1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{24F96127-F614-43E9-A376-DD44A993F208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F96127-F614-43E9-A376-DD44A993F208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F96127-F614-43E9-A376-DD44A993F208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4081AA6D-7A18-4817-A15D-CA8BC74C8E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4081AA6D-7A18-4817-A15D-CA8BC74C8E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4081AA6D-7A18-4817-A15D-CA8BC74C8E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4081AA6D-7A18-4817-A15D-CA8BC74C8E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

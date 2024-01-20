@@ -1,0 +1,11 @@
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\bin\Debug\net6.0\IntersectionOfArray.deps.json
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\bin\Debug\net6.0\IntersectionOfArray.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\bin\Debug\net6.0\IntersectionOfArray.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\IntersectionOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\IntersectionOfArray.AssemblyInfoInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\IntersectionOfArray.AssemblyInfo.cs
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\IntersectionOfArray.csproj.CoreCompileInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\IntersectionOfArray.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\refint\IntersectionOfArray.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\IntersectionOfArray.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\IntersectionOfArray\obj\Debug\net6.0\ref\IntersectionOfArray.dll

@@ -8,11 +8,17 @@
     ".NETCoreApp,Version=v6.0": {
       "C#ProgrammingQuestions/1.0.0": {
         "dependencies": {
+          "IntersectionOfArray": "1.0.0",
           "ReverseString": "1.0.0",
           "SumofTwoElementInArray": "1.0.0"
         },
         "runtime": {
           "C#ProgrammingQuestions.dll": {}
+        }
+      },
+      "IntersectionOfArray/1.0.0": {
+        "runtime": {
+          "IntersectionOfArray.dll": {}
         }
       },
       "ReverseString/1.0.0": {
@@ -29,6 +35,11 @@
   },
   "libraries": {
     "C#ProgrammingQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntersectionOfArray/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

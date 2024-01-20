@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "IntersectionOfArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IntersectionOfArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntersectionOfArray.dll": {}
+        }
+      },
       "ReverseString/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -25,6 +35,11 @@
     }
   },
   "libraries": {
+    "IntersectionOfArray/1.0.0": {
+      "type": "project",
+      "path": "../IntersectionOfArray/IntersectionOfArray.csproj",
+      "msbuildProject": "../IntersectionOfArray/IntersectionOfArray.csproj"
+    },
     "ReverseString/1.0.0": {
       "type": "project",
       "path": "../ReverseString/ReverseString.csproj",
@@ -38,6 +53,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "IntersectionOfArray >= 1.0.0",
       "ReverseString >= 1.0.0",
       "SumofTwoElementInArray >= 1.0.0"
     ]
@@ -74,6 +90,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj"
+            },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj"
             },

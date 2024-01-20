@@ -18,3 +18,5 @@ C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#Programmi
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\obj\Debug\net6.0\C#ProgrammingQuestions.csproj.CopyComplete
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\SumofTwoElementInArray.dll
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\SumofTwoElementInArray.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\IntersectionOfArray.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\IntersectionOfArray.pdb
