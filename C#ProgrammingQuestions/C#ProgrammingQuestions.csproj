@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ReverseString\ReverseString.csproj" />
+    <ProjectReference Include="..\SumofTwoElementInArray\SumofTwoElementInArray.csproj" />
   </ItemGroup>
 
 </Project>

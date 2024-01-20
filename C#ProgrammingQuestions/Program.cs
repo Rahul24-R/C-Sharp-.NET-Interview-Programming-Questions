@@ -1,5 +1,5 @@
 ﻿using ReverseStringnameSpace;
-
+using SumofTwoElementInArray;
 
 namespace ProgrammingQuestions
 {
@@ -7,7 +7,8 @@ namespace ProgrammingQuestions
     {
         static Dictionary<int, string> selectionOption = new Dictionary<int, string>()
         {
-            {1,"ReverseString" }
+            {1,"ReverseString" },
+            {2,"sumOfTwoElements" }
         };
         static void Main()
         {
@@ -26,6 +27,18 @@ namespace ProgrammingQuestions
                         ReverseString revesreStringObj = new ReverseString();
                         Console.WriteLine(revesreStringObj.ReverseStringFunctionWithInBuilt());
                         Console.WriteLine(revesreStringObj.ReverseStringFunctionLoop());
+                        break;
+                    case 2:
+                        ArrayElementSum arrayElementSumObj = new ArrayElementSum();
+                        foreach( var arrayElement in arrayElementSumObj.SumOfElementsEfficient())
+                        {
+                            Console.WriteLine(arrayElement.ToString());
+                        }
+                        Console.WriteLine("From forLoop");
+                        foreach(var arrayElement in arrayElementSumObj.SumOfElementsInArrayLoop())
+                        {
+                            Console.WriteLine(arrayElement);
+                        }
                         break;
                 }
             }

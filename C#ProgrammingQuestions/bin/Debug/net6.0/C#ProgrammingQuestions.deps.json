@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "C#ProgrammingQuestions/1.0.0": {
         "dependencies": {
-          "ReverseString": "1.0.0"
+          "ReverseString": "1.0.0",
+          "SumofTwoElementInArray": "1.0.0"
         },
         "runtime": {
           "C#ProgrammingQuestions.dll": {}
@@ -17,6 +18,11 @@
       "ReverseString/1.0.0": {
         "runtime": {
           "ReverseString.dll": {}
+        }
+      },
+      "SumofTwoElementInArray/1.0.0": {
+        "runtime": {
+          "SumofTwoElementInArray.dll": {}
         }
       }
     }
@@ -28,6 +34,11 @@
       "sha512": ""
     },
     "ReverseString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumofTwoElementInArray/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

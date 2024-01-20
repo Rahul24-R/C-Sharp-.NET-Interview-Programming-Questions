@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#ProgrammingQuestions", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{FD2D72C5-6950-477B-A498-6DD5105B09AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofTwoElementInArray", "SumofTwoElementInArray\SumofTwoElementInArray.csproj", "{24F96127-F614-43E9-A376-DD44A993F208}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FD2D72C5-6950-477B-A498-6DD5105B09AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD2D72C5-6950-477B-A498-6DD5105B09AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD2D72C5-6950-477B-A498-6DD5105B09AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F96127-F614-43E9-A376-DD44A993F208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F96127-F614-43E9-A376-DD44A993F208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F96127-F614-43E9-A376-DD44A993F208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F96127-F614-43E9-A376-DD44A993F208}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

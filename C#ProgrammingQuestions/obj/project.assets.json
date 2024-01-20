@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/ReverseString.dll": {}
         }
+      },
+      "SumofTwoElementInArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SumofTwoElementInArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SumofTwoElementInArray.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../ReverseString/ReverseString.csproj",
       "msbuildProject": "../ReverseString/ReverseString.csproj"
+    },
+    "SumofTwoElementInArray/1.0.0": {
+      "type": "project",
+      "path": "../SumofTwoElementInArray/SumofTwoElementInArray.csproj",
+      "msbuildProject": "../SumofTwoElementInArray/SumofTwoElementInArray.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "ReverseString >= 1.0.0"
+      "ReverseString >= 1.0.0",
+      "SumofTwoElementInArray >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +76,9 @@
           "projectReferences": {
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj"
+            },
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumofTwoElementInArray\\SumofTwoElementInArray.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumofTwoElementInArray\\SumofTwoElementInArray.csproj"
             }
           }
         }
