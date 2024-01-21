@@ -12,7 +12,8 @@
           "MissingElementInArray": "1.0.0",
           "ReverseString": "1.0.0",
           "SumOfDigits": "1.0.0",
-          "SumofTwoElementInArray": "1.0.0"
+          "SumofTwoElementInArray": "1.0.0",
+          "UniqueElementInArray": "1.0.0"
         },
         "runtime": {
           "C#ProgrammingQuestions.dll": {}
@@ -41,6 +42,11 @@
       "SumofTwoElementInArray/1.0.0": {
         "runtime": {
           "SumofTwoElementInArray.dll": {}
+        }
+      },
+      "UniqueElementInArray/1.0.0": {
+        "runtime": {
+          "UniqueElementInArray.dll": {}
         }
       }
     }
@@ -72,6 +78,11 @@
       "sha512": ""
     },
     "SumofTwoElementInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniqueElementInArray/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

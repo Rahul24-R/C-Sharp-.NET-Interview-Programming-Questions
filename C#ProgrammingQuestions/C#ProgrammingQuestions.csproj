@@ -14,6 +14,7 @@
     <ProjectReference Include="..\ReverseString\ReverseString.csproj" />
     <ProjectReference Include="..\SumOfDigits\SumOfDigits.csproj" />
     <ProjectReference Include="..\SumofTwoElementInArray\SumofTwoElementInArray.csproj" />
+    <ProjectReference Include="..\UniqueElementInArray\UniqueElementInArray.csproj" />
   </ItemGroup>
 
 </Project>

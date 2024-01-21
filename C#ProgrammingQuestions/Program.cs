@@ -3,6 +3,7 @@ using MissingElementInArray;
 using ReverseStringnameSpace;
 using SumOfDigits;
 using SumofTwoElementInArray;
+using UniqueElementInArray;
 
 namespace ProgrammingQuestions
 {
@@ -14,7 +15,8 @@ namespace ProgrammingQuestions
             {2,"sumOfTwoElements" },
             {3,"IntersectionOfArray" },
             {4,"MissingElement" },
-            {5,"SumOfDigits" }
+            {5,"SumOfDigits" },
+            {6,"UniqueElementInArray" }
         };
         static void Main()
         {
@@ -60,6 +62,10 @@ namespace ProgrammingQuestions
                     case 5:
                         SumOfDigitsOfNumber sumOfDigitsOfNumberObj = new SumOfDigitsOfNumber();
                         Console.WriteLine(sumOfDigitsOfNumberObj.SumOfDigits());
+                        break;
+                    case 6:
+                        UniqueElement uniqueElementObj = new UniqueElement();
+                        Console.WriteLine(uniqueElementObj.Unique());
                         break;
                 }
             }

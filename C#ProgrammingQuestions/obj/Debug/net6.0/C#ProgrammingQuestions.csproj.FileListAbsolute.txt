@@ -24,3 +24,5 @@ C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#Programmi
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\MissingElementInArray.pdb
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\SumOfDigits.dll
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\SumOfDigits.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\UniqueElementInArray.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\UniqueElementInArray.pdb

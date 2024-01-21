@@ -12,4 +12,5 @@ Running the C#ProgrammingQuestions will prompt you to enter the programming ques
   3. Intersection of two Arrays
   4. Missing Element in Array
   5. Sum of Didgits of a number.
+  6. Unique Element In an Array
      
