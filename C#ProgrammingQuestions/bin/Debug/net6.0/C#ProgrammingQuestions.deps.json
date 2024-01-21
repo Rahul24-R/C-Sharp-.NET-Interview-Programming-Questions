@@ -9,6 +9,7 @@
       "C#ProgrammingQuestions/1.0.0": {
         "dependencies": {
           "IntersectionOfArray": "1.0.0",
+          "MissingElementInArray": "1.0.0",
           "ReverseString": "1.0.0",
           "SumofTwoElementInArray": "1.0.0"
         },
@@ -19,6 +20,11 @@
       "IntersectionOfArray/1.0.0": {
         "runtime": {
           "IntersectionOfArray.dll": {}
+        }
+      },
+      "MissingElementInArray/1.0.0": {
+        "runtime": {
+          "MissingElementInArray.dll": {}
         }
       },
       "ReverseString/1.0.0": {
@@ -40,6 +46,11 @@
       "sha512": ""
     },
     "IntersectionOfArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MissingElementInArray/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

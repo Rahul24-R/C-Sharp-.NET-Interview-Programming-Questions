@@ -12,6 +12,16 @@
           "bin/placeholder/IntersectionOfArray.dll": {}
         }
       },
+      "MissingElementInArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MissingElementInArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MissingElementInArray.dll": {}
+        }
+      },
       "ReverseString/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -40,6 +50,11 @@
       "path": "../IntersectionOfArray/IntersectionOfArray.csproj",
       "msbuildProject": "../IntersectionOfArray/IntersectionOfArray.csproj"
     },
+    "MissingElementInArray/1.0.0": {
+      "type": "project",
+      "path": "../MissingElementInArray/MissingElementInArray.csproj",
+      "msbuildProject": "../MissingElementInArray/MissingElementInArray.csproj"
+    },
     "ReverseString/1.0.0": {
       "type": "project",
       "path": "../ReverseString/ReverseString.csproj",
@@ -54,6 +69,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "IntersectionOfArray >= 1.0.0",
+      "MissingElementInArray >= 1.0.0",
       "ReverseString >= 1.0.0",
       "SumofTwoElementInArray >= 1.0.0"
     ]
@@ -92,6 +108,9 @@
           "projectReferences": {
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj"
+            },
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MissingElementInArray\\MissingElementInArray.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MissingElementInArray\\MissingElementInArray.csproj"
             },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj"

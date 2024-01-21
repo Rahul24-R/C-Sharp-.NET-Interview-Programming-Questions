@@ -1,4 +1,5 @@
 ﻿using IntersectionOfArray;
+using MissingElementInArray;
 using ReverseStringnameSpace;
 using SumofTwoElementInArray;
 
@@ -10,7 +11,8 @@ namespace ProgrammingQuestions
         {
             {1,"ReverseString" },
             {2,"sumOfTwoElements" },
-            {3,"IntersectionOfArray" }
+            {3,"IntersectionOfArray" },
+            {4,"MissingElement" }
         };
         static void Main()
         {
@@ -48,6 +50,10 @@ namespace ProgrammingQuestions
                         {
                             Console.WriteLine(arrayElement.ToString()); 
                         }
+                        break;
+                    case 4:
+                        MissingElement missingElementObj = new MissingElement();
+                        Console.WriteLine(missingElementObj.MissingNumber());
                         break;
                 }
             }
