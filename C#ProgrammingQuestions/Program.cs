@@ -1,6 +1,7 @@
 ﻿using IntersectionOfArray;
 using MissingElementInArray;
 using ReverseStringnameSpace;
+using SumOfDigits;
 using SumofTwoElementInArray;
 
 namespace ProgrammingQuestions
@@ -12,7 +13,8 @@ namespace ProgrammingQuestions
             {1,"ReverseString" },
             {2,"sumOfTwoElements" },
             {3,"IntersectionOfArray" },
-            {4,"MissingElement" }
+            {4,"MissingElement" },
+            {5,"SumOfDigits" }
         };
         static void Main()
         {
@@ -54,6 +56,10 @@ namespace ProgrammingQuestions
                     case 4:
                         MissingElement missingElementObj = new MissingElement();
                         Console.WriteLine(missingElementObj.MissingNumber());
+                        break;
+                    case 5:
+                        SumOfDigitsOfNumber sumOfDigitsOfNumberObj = new SumOfDigitsOfNumber();
+                        Console.WriteLine(sumOfDigitsOfNumberObj.SumOfDigits());
                         break;
                 }
             }

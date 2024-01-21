@@ -12,6 +12,7 @@
     <ProjectReference Include="..\IntersectionOfArray\IntersectionOfArray.csproj" />
     <ProjectReference Include="..\MissingElementInArray\MissingElementInArray.csproj" />
     <ProjectReference Include="..\ReverseString\ReverseString.csproj" />
+    <ProjectReference Include="..\SumOfDigits\SumOfDigits.csproj" />
     <ProjectReference Include="..\SumofTwoElementInArray\SumofTwoElementInArray.csproj" />
   </ItemGroup>
 

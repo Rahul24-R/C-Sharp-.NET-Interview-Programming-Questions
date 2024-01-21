@@ -32,6 +32,16 @@
           "bin/placeholder/ReverseString.dll": {}
         }
       },
+      "SumOfDigits/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SumOfDigits.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SumOfDigits.dll": {}
+        }
+      },
       "SumofTwoElementInArray/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -60,6 +70,11 @@
       "path": "../ReverseString/ReverseString.csproj",
       "msbuildProject": "../ReverseString/ReverseString.csproj"
     },
+    "SumOfDigits/1.0.0": {
+      "type": "project",
+      "path": "../SumOfDigits/SumOfDigits.csproj",
+      "msbuildProject": "../SumOfDigits/SumOfDigits.csproj"
+    },
     "SumofTwoElementInArray/1.0.0": {
       "type": "project",
       "path": "../SumofTwoElementInArray/SumofTwoElementInArray.csproj",
@@ -71,6 +86,7 @@
       "IntersectionOfArray >= 1.0.0",
       "MissingElementInArray >= 1.0.0",
       "ReverseString >= 1.0.0",
+      "SumOfDigits >= 1.0.0",
       "SumofTwoElementInArray >= 1.0.0"
     ]
   },
@@ -114,6 +130,9 @@
             },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj"
+            },
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumOfDigits\\SumOfDigits.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumOfDigits\\SumOfDigits.csproj"
             },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumofTwoElementInArray\\SumofTwoElementInArray.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumofTwoElementInArray\\SumofTwoElementInArray.csproj"

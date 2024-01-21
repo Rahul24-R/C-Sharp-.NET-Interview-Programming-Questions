@@ -1,0 +1,11 @@
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\bin\Debug\net6.0\SumOfDigits.deps.json
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\bin\Debug\net6.0\SumOfDigits.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\bin\Debug\net6.0\SumOfDigits.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\SumOfDigits.AssemblyInfoInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\SumOfDigits.AssemblyInfo.cs
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\SumOfDigits.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\refint\SumOfDigits.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\SumOfDigits.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\SumOfDigits\obj\Debug\net6.0\ref\SumOfDigits.dll
