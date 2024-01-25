@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "C#ProgrammingQuestions/1.0.0": {
         "dependencies": {
+          "3Sum": "1.0.0",
           "IntersectionOfArray": "1.0.0",
           "MissingElementInArray": "1.0.0",
           "ReverseString": "1.0.0",
@@ -17,6 +18,11 @@
         },
         "runtime": {
           "C#ProgrammingQuestions.dll": {}
+        }
+      },
+      "3Sum/1.0.0": {
+        "runtime": {
+          "3Sum.dll": {}
         }
       },
       "IntersectionOfArray/1.0.0": {
@@ -53,6 +59,11 @@
   },
   "libraries": {
     "C#ProgrammingQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3Sum/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

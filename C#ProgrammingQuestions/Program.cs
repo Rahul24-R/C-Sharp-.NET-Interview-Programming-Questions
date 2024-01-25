@@ -1,8 +1,10 @@
-﻿using IntersectionOfArray;
+﻿using _3Sum;
+using IntersectionOfArray;
 using MissingElementInArray;
 using ReverseStringnameSpace;
 using SumOfDigits;
 using SumofTwoElementInArray;
+using System.Collections;
 using UniqueElementInArray;
 
 namespace ProgrammingQuestions
@@ -16,7 +18,8 @@ namespace ProgrammingQuestions
             {3,"IntersectionOfArray" },
             {4,"MissingElement" },
             {5,"SumOfDigits" },
-            {6,"UniqueElementInArray" }
+            {6,"UniqueElementInArray" },
+            {7,"3Sum" }
         };
         static void Main()
         {
@@ -66,6 +69,17 @@ namespace ProgrammingQuestions
                     case 6:
                         UniqueElement uniqueElementObj = new UniqueElement();
                         Console.WriteLine(uniqueElementObj.Unique());
+                        break;
+                    case 7:
+                        ThreeSum threeSumObj = new ThreeSum();
+                        foreach(var outerArray in threeSumObj.ThreeSumList())
+                        {
+                            foreach(var innerList in outerArray)
+                            {
+                                Console.Write(innerList.ToString());
+                            }
+                            Console.WriteLine();
+                        }
                         break;
                 }
             }

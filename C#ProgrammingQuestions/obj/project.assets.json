@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "3Sum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/3Sum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/3Sum.dll": {}
+        }
+      },
       "IntersectionOfArray/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -65,6 +75,11 @@
     }
   },
   "libraries": {
+    "3Sum/1.0.0": {
+      "type": "project",
+      "path": "../3Sum/3Sum.csproj",
+      "msbuildProject": "../3Sum/3Sum.csproj"
+    },
     "IntersectionOfArray/1.0.0": {
       "type": "project",
       "path": "../IntersectionOfArray/IntersectionOfArray.csproj",
@@ -98,6 +113,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "3Sum >= 1.0.0",
       "IntersectionOfArray >= 1.0.0",
       "MissingElementInArray >= 1.0.0",
       "ReverseString >= 1.0.0",
@@ -138,6 +154,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\3Sum\\3Sum.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\3Sum\\3Sum.csproj"
+            },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj"
             },

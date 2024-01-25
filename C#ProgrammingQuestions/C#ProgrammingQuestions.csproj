@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\3Sum\3Sum.csproj" />
     <ProjectReference Include="..\IntersectionOfArray\IntersectionOfArray.csproj" />
     <ProjectReference Include="..\MissingElementInArray\MissingElementInArray.csproj" />
     <ProjectReference Include="..\ReverseString\ReverseString.csproj" />
