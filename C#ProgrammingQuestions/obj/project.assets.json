@@ -22,6 +22,16 @@
           "bin/placeholder/IntersectionOfArray.dll": {}
         }
       },
+      "LeadersInArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LeadersInArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeadersInArray.dll": {}
+        }
+      },
       "MissingElementInArray/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -85,6 +95,11 @@
       "path": "../IntersectionOfArray/IntersectionOfArray.csproj",
       "msbuildProject": "../IntersectionOfArray/IntersectionOfArray.csproj"
     },
+    "LeadersInArray/1.0.0": {
+      "type": "project",
+      "path": "../LeadersInArray/LeadersInArray.csproj",
+      "msbuildProject": "../LeadersInArray/LeadersInArray.csproj"
+    },
     "MissingElementInArray/1.0.0": {
       "type": "project",
       "path": "../MissingElementInArray/MissingElementInArray.csproj",
@@ -115,6 +130,7 @@
     "net6.0": [
       "3Sum >= 1.0.0",
       "IntersectionOfArray >= 1.0.0",
+      "LeadersInArray >= 1.0.0",
       "MissingElementInArray >= 1.0.0",
       "ReverseString >= 1.0.0",
       "SumOfDigits >= 1.0.0",
@@ -159,6 +175,9 @@
             },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj"
+            },
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\LeadersInArray\\LeadersInArray.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\LeadersInArray\\LeadersInArray.csproj"
             },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MissingElementInArray\\MissingElementInArray.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MissingElementInArray\\MissingElementInArray.csproj"

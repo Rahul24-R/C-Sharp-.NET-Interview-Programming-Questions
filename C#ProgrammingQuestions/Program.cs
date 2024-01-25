@@ -1,5 +1,6 @@
 ﻿using _3Sum;
 using IntersectionOfArray;
+using LeadersInArray;
 using MissingElementInArray;
 using ReverseStringnameSpace;
 using SumOfDigits;
@@ -19,7 +20,8 @@ namespace ProgrammingQuestions
             {4,"MissingElement" },
             {5,"SumOfDigits" },
             {6,"UniqueElementInArray" },
-            {7,"3Sum" }
+            {7,"3Sum" },
+            {8,"LeadersInArray" }
         };
         static void Main()
         {
@@ -79,6 +81,13 @@ namespace ProgrammingQuestions
                                 Console.Write(innerList.ToString());
                             }
                             Console.WriteLine();
+                        }
+                        break;
+                    case 8:
+                        ArrayLeaders arrayLeadersObj = new ArrayLeaders();
+                        foreach (var item in arrayLeadersObj.Leaders())
+                        {
+                            Console.WriteLine(item);
                         }
                         break;
                 }

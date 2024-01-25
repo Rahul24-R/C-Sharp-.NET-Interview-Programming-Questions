@@ -10,6 +10,7 @@
         "dependencies": {
           "3Sum": "1.0.0",
           "IntersectionOfArray": "1.0.0",
+          "LeadersInArray": "1.0.0",
           "MissingElementInArray": "1.0.0",
           "ReverseString": "1.0.0",
           "SumOfDigits": "1.0.0",
@@ -28,6 +29,11 @@
       "IntersectionOfArray/1.0.0": {
         "runtime": {
           "IntersectionOfArray.dll": {}
+        }
+      },
+      "LeadersInArray/1.0.0": {
+        "runtime": {
+          "LeadersInArray.dll": {}
         }
       },
       "MissingElementInArray/1.0.0": {
@@ -69,6 +75,11 @@
       "sha512": ""
     },
     "IntersectionOfArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeadersInArray/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

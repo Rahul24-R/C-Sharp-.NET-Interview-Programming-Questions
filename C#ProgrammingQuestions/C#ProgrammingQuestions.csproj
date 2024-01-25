@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\3Sum\3Sum.csproj" />
     <ProjectReference Include="..\IntersectionOfArray\IntersectionOfArray.csproj" />
+    <ProjectReference Include="..\LeadersInArray\LeadersInArray.csproj" />
     <ProjectReference Include="..\MissingElementInArray\MissingElementInArray.csproj" />
     <ProjectReference Include="..\ReverseString\ReverseString.csproj" />
     <ProjectReference Include="..\SumOfDigits\SumOfDigits.csproj" />
