@@ -1,6 +1,7 @@
 ﻿using _3Sum;
 using IntersectionOfArray;
 using LeadersInArray;
+using MergeSortedArray;
 using MissingElementInArray;
 using ReverseStringnameSpace;
 using SumOfDigits;
@@ -21,7 +22,8 @@ namespace ProgrammingQuestions
             {5,"SumOfDigits" },
             {6,"UniqueElementInArray" },
             {7,"3Sum" },
-            {8,"LeadersInArray" }
+            {8,"LeadersInArray" },
+            {9,"MergeSortedArray" }
         };
         static void Main()
         {
@@ -88,6 +90,13 @@ namespace ProgrammingQuestions
                         foreach (var item in arrayLeadersObj.Leaders())
                         {
                             Console.WriteLine(item);
+                        }
+                        break;
+                    case 9:
+                        MergeSortArray mergeSortArrayObj = new MergeSortArray();
+                        foreach(var item in mergeSortArrayObj.MergeArray())
+                        {
+                            Console.WriteLine(item.ToString());
                         }
                         break;
                 }
