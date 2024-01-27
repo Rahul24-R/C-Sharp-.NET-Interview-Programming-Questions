@@ -8,15 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "C#ProgrammingQuestions/1.0.0": {
         "dependencies": {
-          "3Sum": "1.0.0",
-          "IntersectionOfArray": "1.0.0",
-          "LeadersInArray": "1.0.0",
-          "MergeSortedArray": "1.0.0",
-          "MissingElementInArray": "1.0.0",
-          "ReverseString": "1.0.0",
-          "SumOfDigits": "1.0.0",
-          "SumofTwoElementInArray": "1.0.0",
-          "UniqueElementInArray": "1.0.0"
+          "ProgramBase": "1.0.0"
         },
         "runtime": {
           "C#ProgrammingQuestions.dll": {}
@@ -45,6 +37,28 @@
       "MissingElementInArray/1.0.0": {
         "runtime": {
           "MissingElementInArray.dll": {}
+        }
+      },
+      "MoveZeros/1.0.0": {
+        "runtime": {
+          "MoveZeros.dll": {}
+        }
+      },
+      "ProgramBase/1.0.0": {
+        "dependencies": {
+          "3Sum": "1.0.0",
+          "IntersectionOfArray": "1.0.0",
+          "LeadersInArray": "1.0.0",
+          "MergeSortedArray": "1.0.0",
+          "MissingElementInArray": "1.0.0",
+          "MoveZeros": "1.0.0",
+          "ReverseString": "1.0.0",
+          "SumOfDigits": "1.0.0",
+          "SumofTwoElementInArray": "1.0.0",
+          "UniqueElementInArray": "1.0.0"
+        },
+        "runtime": {
+          "ProgramBase.dll": {}
         }
       },
       "ReverseString/1.0.0": {
@@ -96,6 +110,16 @@
       "sha512": ""
     },
     "MissingElementInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoveZeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProgramBase/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

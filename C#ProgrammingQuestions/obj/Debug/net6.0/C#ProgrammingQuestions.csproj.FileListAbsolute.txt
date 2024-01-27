@@ -32,3 +32,7 @@ C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#Programmi
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\LeadersInArray.pdb
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\MergeSortedArray.dll
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\MergeSortedArray.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\MoveZeros.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\MoveZeros.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\ProgramBase.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\ProgramBase.pdb

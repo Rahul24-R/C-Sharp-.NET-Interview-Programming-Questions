@@ -52,6 +52,38 @@
           "bin/placeholder/MissingElementInArray.dll": {}
         }
       },
+      "MoveZeros/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MoveZeros.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoveZeros.dll": {}
+        }
+      },
+      "ProgramBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "3Sum": "1.0.0",
+          "IntersectionOfArray": "1.0.0",
+          "LeadersInArray": "1.0.0",
+          "MergeSortedArray": "1.0.0",
+          "MissingElementInArray": "1.0.0",
+          "MoveZeros": "1.0.0",
+          "ReverseString": "1.0.0",
+          "SumOfDigits": "1.0.0",
+          "SumofTwoElementInArray": "1.0.0",
+          "UniqueElementInArray": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProgramBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgramBase.dll": {}
+        }
+      },
       "ReverseString/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -120,6 +152,16 @@
       "path": "../MissingElementInArray/MissingElementInArray.csproj",
       "msbuildProject": "../MissingElementInArray/MissingElementInArray.csproj"
     },
+    "MoveZeros/1.0.0": {
+      "type": "project",
+      "path": "../MoveZeros/MoveZeros.csproj",
+      "msbuildProject": "../MoveZeros/MoveZeros.csproj"
+    },
+    "ProgramBase/1.0.0": {
+      "type": "project",
+      "path": "../ProgramBase/ProgramBase.csproj",
+      "msbuildProject": "../ProgramBase/ProgramBase.csproj"
+    },
     "ReverseString/1.0.0": {
       "type": "project",
       "path": "../ReverseString/ReverseString.csproj",
@@ -143,15 +185,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "3Sum >= 1.0.0",
-      "IntersectionOfArray >= 1.0.0",
-      "LeadersInArray >= 1.0.0",
-      "MergeSortedArray >= 1.0.0",
-      "MissingElementInArray >= 1.0.0",
-      "ReverseString >= 1.0.0",
-      "SumOfDigits >= 1.0.0",
-      "SumofTwoElementInArray >= 1.0.0",
-      "UniqueElementInArray >= 1.0.0"
+      "ProgramBase >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -186,32 +220,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\3Sum\\3Sum.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\3Sum\\3Sum.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\IntersectionOfArray\\IntersectionOfArray.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\LeadersInArray\\LeadersInArray.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\LeadersInArray\\LeadersInArray.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MergeSortedArray\\MergeSortedArray.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MergeSortedArray\\MergeSortedArray.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MissingElementInArray\\MissingElementInArray.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\MissingElementInArray\\MissingElementInArray.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ReverseString\\ReverseString.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumOfDigits\\SumOfDigits.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumOfDigits\\SumOfDigits.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumofTwoElementInArray\\SumofTwoElementInArray.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\SumofTwoElementInArray\\SumofTwoElementInArray.csproj"
-            },
-            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\UniqueElementInArray\\UniqueElementInArray.csproj": {
-              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\UniqueElementInArray\\UniqueElementInArray.csproj"
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ProgramBase\\ProgramBase.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ProgramBase\\ProgramBase.csproj"
             }
           }
         }

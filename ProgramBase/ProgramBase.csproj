@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\3Sum\3Sum.csproj" />
+    <ProjectReference Include="..\IntersectionOfArray\IntersectionOfArray.csproj" />
+    <ProjectReference Include="..\LeadersInArray\LeadersInArray.csproj" />
+    <ProjectReference Include="..\MergeSortedArray\MergeSortedArray.csproj" />
+    <ProjectReference Include="..\MissingElementInArray\MissingElementInArray.csproj" />
+    <ProjectReference Include="..\MoveZeros\MoveZeros.csproj" />
+    <ProjectReference Include="..\ReverseString\ReverseString.csproj" />
+    <ProjectReference Include="..\SumOfDigits\SumOfDigits.csproj" />
+    <ProjectReference Include="..\SumofTwoElementInArray\SumofTwoElementInArray.csproj" />
+    <ProjectReference Include="..\UniqueElementInArray\UniqueElementInArray.csproj" />
+  </ItemGroup>
+
+</Project>

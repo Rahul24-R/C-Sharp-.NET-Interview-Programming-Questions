@@ -1,0 +1,11 @@
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\bin\Debug\net6.0\MoveZeros.deps.json
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\bin\Debug\net6.0\MoveZeros.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\bin\Debug\net6.0\MoveZeros.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\MoveZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\MoveZeros.AssemblyInfoInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\MoveZeros.AssemblyInfo.cs
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\MoveZeros.csproj.CoreCompileInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\MoveZeros.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\refint\MoveZeros.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\MoveZeros.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\MoveZeros\obj\Debug\net6.0\ref\MoveZeros.dll

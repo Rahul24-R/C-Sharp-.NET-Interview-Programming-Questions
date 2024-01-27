@@ -5,6 +5,10 @@ Set of Programming questions commonly asked during interviews
 **Each quesion in the solution is added as seperate project with referance added to the main project - C#ProgrammingQuestions**
 Running the C#ProgrammingQuestions will prompt you to enter the programming question you wwant to try.
 
+**InDevelopment -**
+1. FrontEnd website to View Questions and Solve
+2. Adding more Questions
+
 
 **Questions -**
   1. Reversing a string - with inbuild static method and using loops
@@ -16,3 +20,4 @@ Running the C#ProgrammingQuestions will prompt you to enter the programming ques
   7. 3Sum
   8. LeadersInArray
   9. MergeSortedArray
+  10. MoveZeros
