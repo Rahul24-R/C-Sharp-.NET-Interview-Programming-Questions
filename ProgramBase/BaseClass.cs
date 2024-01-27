@@ -8,6 +8,7 @@ using ReverseStringnameSpace;
 using SumOfDigits;
 using SumofTwoElementInArray;
 using UniqueElementInArray;
+using ZeroOneTriangle;
 
 namespace ProgramBase
 {
@@ -24,7 +25,8 @@ namespace ProgramBase
             {7,"3Sum" },
             {8,"LeadersInArray" },
             {9,"MergeSortedArray" },
-            {10,"MoveZeros" }
+            {10,"MoveZeros" },
+            {11,"ZeroOneTriangle" }
         };
 
         public void BaseMethod()
@@ -107,6 +109,9 @@ namespace ProgramBase
                         {
                             Console.WriteLine(val.ToString());
                         }
+                        break;
+                    case 11:
+                        new ZeroOne().PrintZeroOneTriangle();
                         break;
                 }
             }

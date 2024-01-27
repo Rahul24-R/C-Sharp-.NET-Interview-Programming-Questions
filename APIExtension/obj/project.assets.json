@@ -162,7 +162,8 @@
           "ReverseString": "1.0.0",
           "SumOfDigits": "1.0.0",
           "SumofTwoElementInArray": "1.0.0",
-          "UniqueElementInArray": "1.0.0"
+          "UniqueElementInArray": "1.0.0",
+          "ZeroOneTriangle": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProgramBase.dll": {}
@@ -209,6 +210,16 @@
         },
         "runtime": {
           "bin/placeholder/UniqueElementInArray.dll": {}
+        }
+      },
+      "ZeroOneTriangle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ZeroOneTriangle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZeroOneTriangle.dll": {}
         }
       }
     }
@@ -606,6 +617,11 @@
       "type": "project",
       "path": "../UniqueElementInArray/UniqueElementInArray.csproj",
       "msbuildProject": "../UniqueElementInArray/UniqueElementInArray.csproj"
+    },
+    "ZeroOneTriangle/1.0.0": {
+      "type": "project",
+      "path": "../ZeroOneTriangle/ZeroOneTriangle.csproj",
+      "msbuildProject": "../ZeroOneTriangle/ZeroOneTriangle.csproj"
     }
   },
   "projectFileDependencyGroups": {

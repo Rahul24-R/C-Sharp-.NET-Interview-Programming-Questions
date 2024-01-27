@@ -31,3 +31,5 @@ C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ProgramBase
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ProgramBase\obj\Debug\net6.0\refint\ProgramBase.dll
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ProgramBase\obj\Debug\net6.0\ProgramBase.pdb
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ProgramBase\obj\Debug\net6.0\ref\ProgramBase.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ProgramBase\bin\Debug\net6.0\ZeroOneTriangle.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ProgramBase\bin\Debug\net6.0\ZeroOneTriangle.pdb

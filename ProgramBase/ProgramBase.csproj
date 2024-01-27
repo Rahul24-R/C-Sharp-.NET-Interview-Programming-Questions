@@ -17,6 +17,7 @@
     <ProjectReference Include="..\SumOfDigits\SumOfDigits.csproj" />
     <ProjectReference Include="..\SumofTwoElementInArray\SumofTwoElementInArray.csproj" />
     <ProjectReference Include="..\UniqueElementInArray\UniqueElementInArray.csproj" />
+    <ProjectReference Include="..\ZeroOneTriangle\ZeroOneTriangle.csproj" />
   </ItemGroup>
 
 </Project>

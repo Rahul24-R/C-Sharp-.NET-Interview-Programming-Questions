@@ -101,6 +101,16 @@
         "runtime": {
           "bin/placeholder/UniqueElementInArray.dll": {}
         }
+      },
+      "ZeroOneTriangle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ZeroOneTriangle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZeroOneTriangle.dll": {}
+        }
       }
     }
   },
@@ -154,6 +164,11 @@
       "type": "project",
       "path": "../UniqueElementInArray/UniqueElementInArray.csproj",
       "msbuildProject": "../UniqueElementInArray/UniqueElementInArray.csproj"
+    },
+    "ZeroOneTriangle/1.0.0": {
+      "type": "project",
+      "path": "../ZeroOneTriangle/ZeroOneTriangle.csproj",
+      "msbuildProject": "../ZeroOneTriangle/ZeroOneTriangle.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -167,7 +182,8 @@
       "ReverseString >= 1.0.0",
       "SumOfDigits >= 1.0.0",
       "SumofTwoElementInArray >= 1.0.0",
-      "UniqueElementInArray >= 1.0.0"
+      "UniqueElementInArray >= 1.0.0",
+      "ZeroOneTriangle >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -231,6 +247,9 @@
             },
             "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\UniqueElementInArray\\UniqueElementInArray.csproj": {
               "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\UniqueElementInArray\\UniqueElementInArray.csproj"
+            },
+            "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ZeroOneTriangle\\ZeroOneTriangle.csproj": {
+              "projectPath": "C:\\Rahul\\Personal\\Learnings\\LearningQuestions\\C#ProgrammingQuestions\\ZeroOneTriangle\\ZeroOneTriangle.csproj"
             }
           }
         }

@@ -36,3 +36,5 @@ C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#Programmi
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\MoveZeros.pdb
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\ProgramBase.dll
 C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\ProgramBase.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\ZeroOneTriangle.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\C#ProgrammingQuestions\bin\Debug\net6.0\ZeroOneTriangle.pdb

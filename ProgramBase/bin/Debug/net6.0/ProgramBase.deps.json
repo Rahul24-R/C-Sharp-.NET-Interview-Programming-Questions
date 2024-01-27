@@ -17,7 +17,8 @@
           "ReverseString": "1.0.0",
           "SumOfDigits": "1.0.0",
           "SumofTwoElementInArray": "1.0.0",
-          "UniqueElementInArray": "1.0.0"
+          "UniqueElementInArray": "1.0.0",
+          "ZeroOneTriangle": "1.0.0"
         },
         "runtime": {
           "ProgramBase.dll": {}
@@ -71,6 +72,11 @@
       "UniqueElementInArray/1.0.0": {
         "runtime": {
           "UniqueElementInArray.dll": {}
+        }
+      },
+      "ZeroOneTriangle/1.0.0": {
+        "runtime": {
+          "ZeroOneTriangle.dll": {}
         }
       }
     }
@@ -127,6 +133,11 @@
       "sha512": ""
     },
     "UniqueElementInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZeroOneTriangle/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

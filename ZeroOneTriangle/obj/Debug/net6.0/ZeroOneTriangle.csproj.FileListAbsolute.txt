@@ -1,0 +1,11 @@
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\bin\Debug\net6.0\ZeroOneTriangle.deps.json
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\bin\Debug\net6.0\ZeroOneTriangle.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\bin\Debug\net6.0\ZeroOneTriangle.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\ZeroOneTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\ZeroOneTriangle.AssemblyInfoInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\ZeroOneTriangle.AssemblyInfo.cs
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\ZeroOneTriangle.csproj.CoreCompileInputs.cache
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\ZeroOneTriangle.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\refint\ZeroOneTriangle.dll
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\ZeroOneTriangle.pdb
+C:\Rahul\Personal\Learnings\LearningQuestions\C#ProgrammingQuestions\ZeroOneTriangle\obj\Debug\net6.0\ref\ZeroOneTriangle.dll

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIExtension", "APIExtensio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramBase", "ProgramBase\ProgramBase.csproj", "{593790C3-4B4E-4C71-9DB3-66FFF1FBAC1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroOneTriangle", "ZeroOneTriangle\ZeroOneTriangle.csproj", "{7070D6B2-46F8-4E4B-817F-51A068741BA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{593790C3-4B4E-4C71-9DB3-66FFF1FBAC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{593790C3-4B4E-4C71-9DB3-66FFF1FBAC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{593790C3-4B4E-4C71-9DB3-66FFF1FBAC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7070D6B2-46F8-4E4B-817F-51A068741BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7070D6B2-46F8-4E4B-817F-51A068741BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7070D6B2-46F8-4E4B-817F-51A068741BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7070D6B2-46F8-4E4B-817F-51A068741BA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

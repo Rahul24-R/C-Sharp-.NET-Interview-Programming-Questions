@@ -21,3 +21,4 @@ Running the C#ProgrammingQuestions will prompt you to enter the programming ques
   8. LeadersInArray
   9. MergeSortedArray
   10. MoveZeros
+  11. ZeroOneTriangle
